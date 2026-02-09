@@ -1,0 +1,7 @@
+{
+  "name": "SOS_APP - Sellers",
+  "description": "",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
