@@ -243,7 +243,7 @@ const SellForm: React.FC<SellFormProps> = ({ onClose, onAddProduct }) => {
 
                 <div className="grid grid-cols-2 gap-6">
                   <div className="space-y-2">
-                    <label className="text-xs font-extrabold text-[#78350f] uppercase tracking-wider ml-2">Prix de base (€)</label>
+                    <label className="text-xs font-extrabold text-[#78350f] uppercase tracking-wider ml-2">Prix de base ($CA)</label>
                     <input 
                       type="number" 
                       value={details.price}
